@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "G&F Moving Services Warehouse",
+    "location": "1234 Industrial Blvd, Los Angeles, CA 90021"
+  },
+  {
+    "id": 2,
+    "name": "ABC Logistics Warehouse",
+    "location": "4567 Highway 290, Houston, TX 77053"
+  },
+  {
+    "id": 3,
+    "name": "XYZ Storage Facility",
+    "location": "7890 Northwest Dr, Chicago, IL 60631"
+  },
+  {
+    "id": 4,
+    "name": "J&M Distribution Center",
+    "location": "9012 Airport Rd, Miami, FL 33126"
+  },
+  {
+    "id": 5,
+    "name": "Smith & Co. Warehouse",
+    "location": "3456 Richmond Rd, Richmond, VA 23224"
+  }
+]

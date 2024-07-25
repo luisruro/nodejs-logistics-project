@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "item": "Electronic Tablets",
+    "quantity": 250,
+    "warehouseId": {
+      "id": 1,
+      "name": "G&F Moving Services Warehouse",
+      "location": "1234 Industrial Blvd, Los Angeles, CA 90021"
+    }
+  },
+  {
+    "id": 2,
+    "item": "Auto Parts (Engine Blocks)",
+    "quantity": 150,
+    "warehouseId": {
+      "id": 4,
+      "name": "J&M Distribution Center",
+      "location": "9012 Airport Rd, Miami, FL 33126"
+    }
+  },
+  {
+    "id": 3,
+    "item": "Food and Beverages (Canned Goods)",
+    "quantity": 10,
+    "warehouseId": {
+      "id": 3,
+      "name": "XYZ Storage Facility",
+      "location": "7890 Northwest Dr, Chicago, IL 60631"
+    }
+  },
+  {
+    "id": 4,
+    "item": "Medical Equipment (Defibrillators)",
+    "quantity": 20,
+    "warehouseId": {
+      "id": 2,
+      "name": "ABC Logistics Warehouse",
+      "location": "4567 Highway 290, Houston, TX 77053"
+    }
+  },
+  {
+    "id": 5,
+    "item": "Food and Beverages (Canned Goods)",
+    "quantity": 1000,
+    "warehouseId": {
+      "id": 3,
+      "name": "XYZ Storage Facility",
+      "location": "7890 Northwest Dr, Chicago, IL 60631"
+    }
+  }
+]
